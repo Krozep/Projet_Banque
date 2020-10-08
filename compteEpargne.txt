@@ -1,0 +1,5 @@
+1 Consulter le solde
+2 Effectuer un depot
+3 Effectuer un retrait
+4 Calculer les interets
+5 Retour
